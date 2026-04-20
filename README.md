@@ -11,7 +11,7 @@ Technologies Used
 
 How to Run
 1.	Clone the repository:
-2.	git clone https://github.com/TahsinaLra/Car_Racing_Game.git
+2.	git clone https://github.com/TahsinaLira/Car_Racing_Game.git
 4.	Open the project in any Java IDE (IntelliJ / Eclipse / NetBeans)
 5.	Set up MySQL database:
 o	Create a database 
