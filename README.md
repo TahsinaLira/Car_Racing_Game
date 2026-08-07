@@ -1,6 +1,6 @@
  Car Racing Game (Java)
  
-This is a simple car racing game developed in Java where the player controls a car and avoids collision with incoming bot cars. The goal is to survive as long as possible and achieve a high score.
+This is a simple car racing game developed in Java where the player controls a car by changing their features and avoids collision with incoming bot cars. The goal is to survive as long as possible and achieve a high score.
 
 Technologies Used
 •	Java (Swing for GUI)
